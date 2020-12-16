@@ -1,0 +1,121 @@
+* {
+	box-sizing: border-box;
+}
+html {
+    font-size: 16px; 
+    line-height: 1.4rem;
+    background-image: url(bg.jpg);
+}
+img {
+	width: 100%;
+    max-width: 100%;
+}
+
+footer {
+    padding: 2rem 0rem;
+    border-top: 1px solid #ccc;
+    font-size: .8rem;
+    padding: 50px;
+    position: absolute;
+}
+
+header h1{
+    text-align: center;
+}
+
+h2{
+    border-bottom: 2px solid red;
+    position: relative;
+}
+
+main{
+    padding: 100px;
+}
+
+#top-nav ul li {
+        display: inline;
+        padding: 10px;
+}
+
+#top-nav {
+	float:right;
+	margin-top: 1%;
+	margin-left: 10%;
+	font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+	position: relative;
+	border: 2px solid white;
+    padding-right: 5px;
+    display: inline;
+    font-size: large;
+}
+
+#top-nav ul li a:hover,
+#top-nav ul li a:focus,
+#top-nav ul li a:active {
+	border-bottom: 2px solid red;
+	text-decoration: underline;
+}
+
+.column {
+    float: left;
+    padding: 10px;
+    height: 300px;
+}
+  
+.left {
+    width: 66%;
+}
+  
+.right {
+    width: 34%;
+}
+
+.helloh{
+    text-align: center;
+    position: relative;
+}
+.helloc{
+    text-align: center;
+}
+.he1{
+    width: 33%;
+}
+
+.he2{
+    width: 33%;
+}
+
+.he3{
+    width: 33%;
+}
+
+.c1{
+    width: 33%;
+}
+
+.c2{
+    width: 33%;
+}
+
+.c3{
+    width: 33%;
+}
+
+.part1{
+    padding: 50px;
+}
+.henry{
+    padding: 5px;
+}
+
+img{
+    padding:30px;
+}
+
+div{
+    padding: 150px; 
+}
+
+.charlie{
+    padding: 5px;
+}
